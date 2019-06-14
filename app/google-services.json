@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424486816533",
+    "firebase_url": "https://managemen-6e4c8.firebaseio.com",
+    "project_id": "managemen-6e4c8",
+    "storage_bucket": "managemen-6e4c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424486816533:android:82b3af4fdbdfa68d",
+        "android_client_info": {
+          "package_name": "com.ena.managemenapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424486816533-gqggq1cb15ksdo65hkmfd6bkj961d4hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ena.managemenapk",
+            "certificate_hash": "b3258229084ac29dcb22ca7310fc0579eb14d7df"
+          }
+        },
+        {
+          "client_id": "424486816533-341654fb1c34get2vl8rh19d7o8p2hm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFvWAnCS7ZjzcfClJ00g4L3_1Grg_ItQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424486816533-341654fb1c34get2vl8rh19d7o8p2hm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
